@@ -1,5 +1,4 @@
 # My-AI
-Certainly! Here's an explanation of the provided Python code:
 
 1. **Imports and API Keys Setup**:
    - The code begins by importing necessary libraries like `pyttsx3`, `datetime`, `speech_recognition`, etc.
